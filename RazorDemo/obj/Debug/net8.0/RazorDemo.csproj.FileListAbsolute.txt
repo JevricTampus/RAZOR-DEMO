@@ -1,0 +1,15 @@
+/workspaces/RAZOR-DEMO/RazorDemo/bin/Debug/net8.0/RazorDemo
+/workspaces/RAZOR-DEMO/RazorDemo/bin/Debug/net8.0/RazorDemo.deps.json
+/workspaces/RAZOR-DEMO/RazorDemo/bin/Debug/net8.0/RazorDemo.runtimeconfig.json
+/workspaces/RAZOR-DEMO/RazorDemo/bin/Debug/net8.0/RazorDemo.dll
+/workspaces/RAZOR-DEMO/RazorDemo/bin/Debug/net8.0/RazorDemo.pdb
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/RazorDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/RazorDemo.AssemblyInfoInputs.cache
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/RazorDemo.AssemblyInfo.cs
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/RazorDemo.csproj.CoreCompileInputs.cache
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/RazorDemo.sourcelink.json
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/RazorDemo.dll
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/refint/RazorDemo.dll
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/RazorDemo.pdb
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/RazorDemo.genruntimeconfig.cache
+/workspaces/RAZOR-DEMO/RazorDemo/obj/Debug/net8.0/ref/RazorDemo.dll

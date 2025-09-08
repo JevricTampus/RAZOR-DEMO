@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RazorDemo</title>
+</head>
+<body>
+    <h1>Lisa</h1>
+    <h2>Rose</h2>
+    <h3>Jennie</h3>
+    <h4>Jisoo</h4>
+    <h5>BlackPink</h5>
+    <a href="https://uk.pinterest.com/pin/30047522506782081/">
+        <h6>BlackPink</h6>
+    </a>
+    <p>Ang pamagat na ito ay nagpapakita ng larawan ng isang grupo.</p>
+    <img src="https://i.pinimg.com/originals/f6/e0/2d/f6e02d29de263d47cbe482839f6dcc0d.jpg" height="200" width="200" alt="BlackPink Group">
+
+    <table border="1">
+        <tr>
+            <th width="100px">Name</th>
+            <th width="100px">Value</th>
+        </tr>
+        <tr>
+            <td>Day</td><td>Monday</td>
+        </tr>
+        <tr>
+            <td>Hour</td><td>9:15</td>
+        </tr>
+        <tr>
+            <td>Minute</td><td>15</td>
+        </tr>
+        <tr>
+            <td>Second</td><td>30Seconds</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+<p>estrong-HTML (HyperText Markup Language)</strong is the standard markup <br>language used to create and structure web pages. It defines the layout of a webpage using <i>elements and tags<ll>, allowing for the <bradisplay of text, images, links, and multimcdia content.s/p></bradisplay>
+
+
+
+@{
+    var totalMessage = "";
+    if (IsPost)
+    {
+        var num1 = Request["text1"];
+        var num2 = Request["text2"];
+        var total = num1.AsInt() + num2.AsInt();
+        totalMessage = "Total = " + total;
+    }
+}
+<!DOCTYPE html>
+<html>
+<body style="background-color: beige; font-family: Verdana, Arial;">
+    <form action="" method="post">
+        <p>
+            <label for="text1">First Number:</label><br>
+            <input type="text" name="text1" id="text1">
+        </p>
+        <p>
+            <label for="text2">Second Number:</label><br>
+            <input type="text" name="text2" id="text2">
+        </p>
+        <p>
+            <input type="submit" value="Add">
+        </p>
+    </form>
+    <p>@totalMessage</p>
+</body>
+</html>
+
+
+
+<!-- File name: index.html -->
+<html>
+<body>  
+    <!-- Using Inline CSS -->
+    <h3 style="text-align: center;">
+      	Welcome To GFG
+ 	</h3>
+  
+    <p>CSS Tutorial - GeeksforGeeks</p>
+</body>
+</html>
+
+
+<!-- File name: index.html -->
+<html>
+<head>    
+  	<!-- Using Internal CSS -->
+    <style>
+        h3 {
+        	color: blue;
+            font-size: 24;
+        }
+    </style>
+</head>
+
+<body>  
+    <!-- CSS is applied here -->
+    <h3>Welcome To GFG</h3>
+  
+    <p>CSS Tutorial - GeeksforGeeks</p>
+</body>
+</html>
+
+<!-- File name: index.html -->
+<html>
+<head>
+  	<!-- Importing External CSS -->
+    <link rel="stylesheet" href="style.css" /> 
+</head>
+<body>
+    <p>CSS Tutorial - GeeksforGeeks</p>
+</body>
+</html>
